@@ -2,7 +2,7 @@
 <li>ツイートの感情の入り具合によって、アイコンのサイズを変更するPHPプログラムです。</li>
 <li>感情の入り具合はどう定義しているかというと、〜</li>
 <li>実装にはTwitterAPIと形態素解析にMecabuを用いています。</li>
-
+<br>
 <div align="CENTER">
 <img src="https://github.com/nshhhin/resizeTwitterIcon/blob/master/RTI_demo.png" width = "500px" height = "auto">
 <p>Fig.1 ツイートするとこのように...</p>
