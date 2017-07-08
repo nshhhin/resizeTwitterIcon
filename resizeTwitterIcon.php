@@ -1,4 +1,9 @@
-
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>resizeTwitterIcon.php</title>
+	</head>
+	<body>
 <?php
 	//参考：https://syncer.jp/Web/API/Twitter/REST_API/POST/account/update_profile_image/
 
@@ -183,3 +188,6 @@
 
 	// 出力 (本稼働時はHTMLのヘッダー、フッターを付けよう)
 	echo $html ;
+?>
+	</body>
+</html>
