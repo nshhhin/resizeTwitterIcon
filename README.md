@@ -4,7 +4,7 @@
 実装にはTwitterAPIと形態素解析にMecabuを用いています。<br>
 
 <div align="CENTER">
-<img src="https://github.com/nshhhin/Images/blob/master/RTI_demo.png" width = "500px" height = "auto">
+<img src="https://github.com/nshhhin/resizeTwitterIcon/blob/master/RTI_demo.png" width = "500px" height = "auto">
 <p>Fig.1 ツイートするとこのように...</p>
 </div>
 
