@@ -8,6 +8,8 @@
 <p>Fig.1 ツイートするとこのように...</p>
 </div>
 
-## Reference
+## How to use?
+
+## References
 <li>TwitterAPI関連： <a>https://syncer.jp/Web/API/Twitter/REST_API/POST/account/update_profile_image/</a></li>
 <li>Mecabu: <a>http://qiita.com/yudaifuijta0121/items/1787d70b9cfca3e43d12</a></li>
